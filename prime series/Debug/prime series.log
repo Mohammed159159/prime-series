@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Mohammed Hany\Desktop\Projects\prime series\prime series\main.c(21): warning C4716: 'primeinrange': must return a value
+C:\Users\Mohammed Hany\Desktop\Projects\prime series\prime series\main.c(33): warning C4716: 'prime': must return a value
+  prime series.vcxproj -> C:\Users\Mohammed Hany\Desktop\Projects\prime series\Debug\prime series.exe
